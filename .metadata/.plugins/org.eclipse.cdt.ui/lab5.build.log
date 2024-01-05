@@ -1,0 +1,9 @@
+14:04:26 **** Incremental Build of configuration debug for project lab5 ****
+make MODE=debug all 
+cd src && /usr/bin/make
+make[1]: Entering directory '/d/Astudy/fourth year/first term/network/labs/lab5/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/d/Astudy/fourth year/first term/network/labs/lab5/src'
+
+14:04:27 Build Finished. 0 errors, 0 warnings. (took 396ms)
+

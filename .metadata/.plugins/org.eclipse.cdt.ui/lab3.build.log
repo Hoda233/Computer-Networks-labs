@@ -1,0 +1,9 @@
+14:10:22 **** Incremental Build of configuration release for project lab3 ****
+make MODE=release all 
+cd src && /usr/bin/make
+make[1]: Entering directory '/d/Astudy/fourth year/first term/network/labs/lab3/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/d/Astudy/fourth year/first term/network/labs/lab3/src'
+
+14:10:23 Build Finished. 0 errors, 0 warnings. (took 338ms)
+

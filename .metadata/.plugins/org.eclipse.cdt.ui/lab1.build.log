@@ -1,0 +1,9 @@
+11:27:02 **** Build of configuration debug for project lab1 ****
+make MODE=debug all 
+cd src && /usr/bin/make
+make[1]: Entering directory '/d/Astudy/fourth year/first term/network/labs/lab1/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/d/Astudy/fourth year/first term/network/labs/lab1/src'
+
+11:27:02 Build Finished. 0 errors, 0 warnings. (took 789ms)
+

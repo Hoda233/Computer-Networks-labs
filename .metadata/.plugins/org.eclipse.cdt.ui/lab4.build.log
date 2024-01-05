@@ -1,0 +1,9 @@
+14:01:46 **** Build of configuration release for project lab4 ****
+make MODE=release all 
+cd src && /usr/bin/make
+make[1]: Entering directory '/d/Astudy/fourth year/first term/network/labs/lab4/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/d/Astudy/fourth year/first term/network/labs/lab4/src'
+
+14:01:47 Build Finished. 0 errors, 0 warnings. (took 579ms)
+

@@ -1,0 +1,9 @@
+12:14:00 **** Incremental Build of configuration debug for project Networks_project ****
+make MODE=debug all 
+cd src && /usr/bin/make
+make[1]: Entering directory '/d/Astudy/fourth year/first term/network/doaa/code/code/src'
+Creating executable: ../out/clang-debug/src/Networks_project_dbg.exe
+make[1]: Leaving directory '/d/Astudy/fourth year/first term/network/doaa/code/code/src'
+
+12:14:01 Build Finished. 0 errors, 0 warnings. (took 1s.107ms)
+

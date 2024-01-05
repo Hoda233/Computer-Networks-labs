@@ -1,0 +1,10 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:simulations,org.eclipse.launchbar.core.descriptorType.default\:simulations (1),org.eclipse.launchbar.core.descriptorType.default\:simulations (3),org.eclipse.launchbar.core.descriptorType.default\:simulations (2),org.eclipse.launchbar.core.descriptorType.default\:simulations (4),org.eclipse.launchbar.core.descriptorType.default\:simulations (6),org.eclipse.launchbar.core.descriptorType.default\:src,org.eclipse.launchbar.core.descriptorType.default\:simulations (5),org.eclipse.launchbar.core.descriptorType.default\:simulations (8),org.eclipse.launchbar.core.descriptorType.default\:src (2),org.eclipse.launchbar.core.descriptorType.default\:src (1),org.eclipse.launchbar.core.descriptorType.default\:simulations - network,org.eclipse.launchbar.core.descriptorType.default\:simulations (7)
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:simulations\ (1)/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:simulations\ (1)/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:simulations\ (6)/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:simulations/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:simulations/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local

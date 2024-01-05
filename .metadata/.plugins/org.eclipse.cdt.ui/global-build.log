@@ -1,0 +1,134 @@
+12:02:33 **** Build of configuration debug for project Networks_project ****
+make MODE=debug all 
+cd src && /usr/bin/make
+make[1]: Entering directory '/d/Astudy/fourth year/first term/network/doaa/code/code/src'
+coordinator.cc
+Node.cc
+myMessage_m.cc
+Creating executable: ../out/clang-debug/src/Networks_project_dbg.exe
+make[1]: Leaving directory '/d/Astudy/fourth year/first term/network/doaa/code/code/src'
+12:04:54 **** Incremental Build of configuration debug for project Networks_project ****
+make MODE=debug all 
+cd src && /usr/bin/make
+make[1]: Entering directory '/d/Astudy/fourth year/first term/network/doaa/code/code/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/d/Astudy/fourth year/first term/network/doaa/code/code/src'
+12:05:26 **** Incremental Build of configuration debug for project Networks_project ****
+make MODE=debug all 
+cd src && /usr/bin/make
+make[1]: Entering directory '/d/Astudy/fourth year/first term/network/doaa/code/code/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/d/Astudy/fourth year/first term/network/doaa/code/code/src'
+12:07:59 **** Incremental Build of configuration debug for project Networks_project ****
+make MODE=debug all 
+cd src && /usr/bin/make
+make[1]: Entering directory '/d/Astudy/fourth year/first term/network/doaa/code/code/src'
+coordinator.cc
+Creating executable: ../out/clang-debug/src/Networks_project_dbg.exe
+make[1]: Leaving directory '/d/Astudy/fourth year/first term/network/doaa/code/code/src'
+12:09:45 **** Incremental Build of configuration debug for project Networks_project ****
+make MODE=debug all 
+cd src && /usr/bin/make
+make[1]: Entering directory '/d/Astudy/fourth year/first term/network/doaa/code/code/src'
+Node.cc
+Node.cc:31:27: warning: unknown escape sequence '\A' [-Wunknown-escape-sequence]
+        inputFile.open("D:\Astudy\fourth year\first term\network\doaa\code\code/input0.txt");
+                          ^~
+Node.cc:31:65: warning: unknown escape sequence '\d' [-Wunknown-escape-sequence]
+        inputFile.open("D:\Astudy\fourth year\first term\network\doaa\code\code/input0.txt");
+                                                                ^~
+Node.cc:31:70: warning: unknown escape sequence '\c' [-Wunknown-escape-sequence]
+        inputFile.open("D:\Astudy\fourth year\first term\network\doaa\code\code/input0.txt");
+                                                                     ^~
+Node.cc:31:75: warning: unknown escape sequence '\c' [-Wunknown-escape-sequence]
+        inputFile.open("D:\Astudy\fourth year\first term\network\doaa\code\code/input0.txt");
+                                                                          ^~
+Node.cc:36:27: warning: unknown escape sequence '\A' [-Wunknown-escape-sequence]
+        inputFile.open("D:\Astudy\fourth year\first term\network\doaa\code\code/input1.txt");
+                          ^~
+Node.cc:36:65: warning: unknown escape sequence '\d' [-Wunknown-escape-sequence]
+        inputFile.open("D:\Astudy\fourth year\first term\network\doaa\code\code/input1.txt");
+                                                                ^~
+Node.cc:36:70: warning: unknown escape sequence '\c' [-Wunknown-escape-sequence]
+        inputFile.open("D:\Astudy\fourth year\first term\network\doaa\code\code/input1.txt");
+                                                                     ^~
+Node.cc:36:75: warning: unknown escape sequence '\c' [-Wunknown-escape-sequence]
+        inputFile.open("D:\Astudy\fourth year\first term\network\doaa\code\code/input1.txt");
+                                                                          ^~
+8 warnings generated.
+Creating executable: ../out/clang-debug/src/Networks_project_dbg.exe
+make[1]: Leaving directory '/d/Astudy/fourth year/first term/network/doaa/code/code/src'
+12:10:59 **** Incremental Build of configuration debug for project Networks_project ****
+make MODE=debug all 
+cd src && /usr/bin/make
+make[1]: Entering directory '/d/Astudy/fourth year/first term/network/doaa/code/code/src'
+Node.cc
+Creating executable: ../out/clang-debug/src/Networks_project_dbg.exe
+make[1]: Leaving directory '/d/Astudy/fourth year/first term/network/doaa/code/code/src'
+12:11:06 **** Incremental Build of configuration debug for project Networks_project ****
+make MODE=debug all 
+cd src && /usr/bin/make
+make[1]: Entering directory '/d/Astudy/fourth year/first term/network/doaa/code/code/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/d/Astudy/fourth year/first term/network/doaa/code/code/src'
+12:13:50 **** Incremental Build of configuration debug for project Networks_project ****
+make MODE=debug all 
+cd src && /usr/bin/make
+make[1]: Entering directory '/d/Astudy/fourth year/first term/network/doaa/code/code/src'
+Node.cc
+Creating executable: ../out/clang-debug/src/Networks_project_dbg.exe
+D:\omnet++\omnetpp-5.6.2\tools\win64\mingw64\bin\ld: cannot open output file ../out/clang-debug/src/Networks_project_dbg.exe: Permission denied
+clang++.exe: error: unable to remove file: Permission denied
+clang++.exe: error: linker command failed with exit code 1 (use -v to see invocation)
+make[1]: *** [Makefile:96: ../out/clang-debug/src/Networks_project_dbg.exe] Error 1
+make[1]: Leaving directory '/d/Astudy/fourth year/first term/network/doaa/code/code/src'
+make: *** [Makefile:2: all] Error 2
+"make MODE=debug all" terminated with exit code 2. Build might be incomplete.
+12:14:00 **** Incremental Build of configuration debug for project Networks_project ****
+make MODE=debug all 
+cd src && /usr/bin/make
+make[1]: Entering directory '/d/Astudy/fourth year/first term/network/doaa/code/code/src'
+Creating executable: ../out/clang-debug/src/Networks_project_dbg.exe
+make[1]: Leaving directory '/d/Astudy/fourth year/first term/network/doaa/code/code/src'
+14:01:46 **** Build of configuration release for project lab4 ****
+make MODE=release all 
+cd src && /usr/bin/make
+make[1]: Entering directory '/d/Astudy/fourth year/first term/network/labs/lab4/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/d/Astudy/fourth year/first term/network/labs/lab4/src'
+14:04:11 **** Build of configuration debug for project lab5 ****
+make MODE=debug all 
+cd src && /usr/bin/make
+make[1]: Entering directory '/d/Astudy/fourth year/first term/network/labs/lab5/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/d/Astudy/fourth year/first term/network/labs/lab5/src'
+14:04:26 **** Incremental Build of configuration debug for project lab5 ****
+make MODE=debug all 
+cd src && /usr/bin/make
+make[1]: Entering directory '/d/Astudy/fourth year/first term/network/labs/lab5/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/d/Astudy/fourth year/first term/network/labs/lab5/src'
+14:06:37 **** Build of configuration debug for project Star_project ****
+make MODE=debug all 
+cd src && /usr/bin/make
+make[1]: Entering directory '/d/Astudy/fourth year/first term/network/labs/Star_project/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/d/Astudy/fourth year/first term/network/labs/Star_project/src'
+14:07:49 **** Incremental Build of configuration debug for project Star_project ****
+make MODE=debug all 
+cd src && /usr/bin/make
+make[1]: Entering directory '/d/Astudy/fourth year/first term/network/labs/Star_project/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/d/Astudy/fourth year/first term/network/labs/Star_project/src'
+14:09:24 **** Build of configuration release for project lab3 ****
+make MODE=release all 
+cd src && /usr/bin/make
+make[1]: Entering directory '/d/Astudy/fourth year/first term/network/labs/lab3/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/d/Astudy/fourth year/first term/network/labs/lab3/src'
+14:10:22 **** Incremental Build of configuration release for project lab3 ****
+make MODE=release all 
+cd src && /usr/bin/make
+make[1]: Entering directory '/d/Astudy/fourth year/first term/network/labs/lab3/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/d/Astudy/fourth year/first term/network/labs/lab3/src'

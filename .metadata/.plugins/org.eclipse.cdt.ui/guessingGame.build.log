@@ -1,0 +1,9 @@
+11:27:01 **** Build of configuration debug for project guessingGame ****
+make MODE=debug all 
+cd src && /usr/bin/make
+make[1]: Entering directory '/d/Astudy/fourth year/first term/network/labs/old is gold/networking-assignments-term1-master/networking-assignments-term1-master/Assignment2/guessingGame/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/d/Astudy/fourth year/first term/network/labs/old is gold/networking-assignments-term1-master/networking-assignments-term1-master/Assignment2/guessingGame/src'
+
+11:27:01 Build Finished. 0 errors, 0 warnings. (took 467ms)
+
